@@ -43,5 +43,3 @@ def run_agent(user_prompt: str):
         contents=final_prompt
     )
     return result.text
-
-print(run_agent("Bagaimana cara login?"))
