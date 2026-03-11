@@ -5,7 +5,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 # Path ke folder Data_Analis (relatif dari backend/)
-DATA_DIR = Path(__file__).parent.parent.parent / "Data_Analis"
+DATA_DIR = Path(__file__).parent / "Data_Analis"
 
 def list_files():
     """Tampilkan semua file yang tersedia di Data_Analis"""

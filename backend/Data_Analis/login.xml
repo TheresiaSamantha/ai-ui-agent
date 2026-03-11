@@ -1,0 +1,283 @@
+<elements total="43">
+  <element>
+    <tag>html</tag>
+    <text>Swag Labs
+Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user
+error_user
+visual_user
+Password for all users:
+secret_sauce</text>
+  </element>
+  <element>
+    <tag>head</tag>
+    <text/>
+  </element>
+  <element>
+    <tag>meta</tag>
+    <text/>
+  </element>
+  <element>
+    <tag>link</tag>
+    <text/>
+    <href>https://www.saucedemo.com/favicon.ico</href>
+  </element>
+  <element>
+    <tag>meta</tag>
+    <text/>
+    <name>robots</name>
+  </element>
+  <element>
+    <tag>meta</tag>
+    <text/>
+    <name>viewport</name>
+  </element>
+  <element>
+    <tag>meta</tag>
+    <text/>
+    <name>theme-color</name>
+  </element>
+  <element>
+    <tag>meta</tag>
+    <text/>
+    <name>description</name>
+  </element>
+  <element>
+    <tag>link</tag>
+    <text/>
+    <href>https://www.saucedemo.com/icon/icon-192x192.png</href>
+  </element>
+  <element>
+    <tag>link</tag>
+    <text/>
+    <href>https://www.saucedemo.com/manifest.json</href>
+  </element>
+  <element>
+    <tag>script</tag>
+    <text/>
+    <type>text/javascript</type>
+  </element>
+  <element>
+    <tag>link</tag>
+    <text/>
+    <href>https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&amp;family=DM+Sans:wght@400;500</href>
+  </element>
+  <element>
+    <tag>title</tag>
+    <text/>
+  </element>
+  <element>
+    <tag>script</tag>
+    <text/>
+    <src>https://www.saucedemo.com/static/js/main.bcf4bc5f.js</src>
+  </element>
+  <element>
+    <tag>link</tag>
+    <text/>
+    <href>https://www.saucedemo.com/static/css/main.8a7d64a1.css</href>
+  </element>
+  <element>
+    <tag>body</tag>
+    <text>Swag Labs
+Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user
+error_user
+visual_user
+Password for all users:
+secret_sauce</text>
+  </element>
+  <element>
+    <tag>noscript</tag>
+    <text/>
+  </element>
+  <element>
+    <tag>div</tag>
+    <text>Swag Labs
+Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user
+error_user
+visual_user
+Password for all users:
+secret_sauce</text>
+    <id>root</id>
+  </element>
+  <element>
+    <tag>div</tag>
+    <text>Swag Labs
+Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user
+error_user
+visual_user
+Password for all users:
+secret_sauce</text>
+    <class>login_container</class>
+  </element>
+  <element>
+    <tag>div</tag>
+    <text>Swag Labs</text>
+    <class>login_logo</class>
+  </element>
+  <element>
+    <tag>div</tag>
+    <text>Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user
+error_user
+visual_user
+Password for all users:
+secret_sauce</text>
+    <class>login_wrapper</class>
+  </element>
+  <element>
+    <tag>div</tag>
+    <text/>
+    <class>login_wrapper-inner</class>
+  </element>
+  <element>
+    <tag>div</tag>
+    <text/>
+    <id>login_button_container</id>
+    <class>form_column</class>
+  </element>
+  <element>
+    <tag>div</tag>
+    <text/>
+    <class>login-box</class>
+  </element>
+  <element>
+    <tag>form</tag>
+    <text/>
+  </element>
+  <element>
+    <tag>div</tag>
+    <text/>
+    <class>form_group</class>
+  </element>
+  <element>
+    <tag>input</tag>
+    <text/>
+    <id>user-name</id>
+    <class>input_error form_input</class>
+    <name>user-name</name>
+    <type>text</type>
+    <placeholder>Username</placeholder>
+  </element>
+  <element>
+    <tag>div</tag>
+    <text/>
+    <class>form_group</class>
+  </element>
+  <element>
+    <tag>input</tag>
+    <text/>
+    <id>password</id>
+    <class>input_error form_input</class>
+    <name>password</name>
+    <type>password</type>
+    <placeholder>Password</placeholder>
+  </element>
+  <element>
+    <tag>div</tag>
+    <text/>
+    <class>error-message-container</class>
+  </element>
+  <element>
+    <tag>input</tag>
+    <text/>
+    <id>login-button</id>
+    <class>submit-button btn_action</class>
+    <name>login-button</name>
+    <type>submit</type>
+    <value>Login</value>
+  </element>
+  <element>
+    <tag>div</tag>
+    <text>Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user
+error_user
+visual_user
+Password for all users:
+secret_sauce</text>
+    <class>login_credentials_wrap</class>
+  </element>
+  <element>
+    <tag>div</tag>
+    <text>Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user
+error_user
+visual_user
+Password for all users:
+secret_sauce</text>
+    <class>login_credentials_wrap-inner</class>
+  </element>
+  <element>
+    <tag>div</tag>
+    <text>Accepted usernames are:
+standard_user
+locked_out_user
+problem_user
+performance_glitch_user
+error_user
+visual_user</text>
+    <id>login_credentials</id>
+    <class>login_credentials</class>
+  </element>
+  <element>
+    <tag>h4</tag>
+    <text>Accepted usernames are:</text>
+  </element>
+  <element>
+    <tag>br</tag>
+    <text/>
+  </element>
+  <element>
+    <tag>br</tag>
+    <text/>
+  </element>
+  <element>
+    <tag>br</tag>
+    <text/>
+  </element>
+  <element>
+    <tag>br</tag>
+    <text/>
+  </element>
+  <element>
+    <tag>br</tag>
+    <text/>
+  </element>
+  <element>
+    <tag>br</tag>
+    <text/>
+  </element>
+  <element>
+    <tag>div</tag>
+    <text>Password for all users:
+secret_sauce</text>
+    <class>login_password</class>
+  </element>
+  <element>
+    <tag>h4</tag>
+    <text>Password for all users:</text>
+  </element>
+</elements>
