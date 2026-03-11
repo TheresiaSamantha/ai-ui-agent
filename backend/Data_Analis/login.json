@@ -1,0 +1,145 @@
+[
+  {
+    "tag": "body",
+    "text": "Swag Labs\nAccepted usernames are:\nstandard_user\nlocked_out_user\nproblem_user\nperformance_glitch_user\nerror_user\nvisual_user\nPassword for all users:\nsecret_sauce"
+  },
+  {
+    "tag": "noscript",
+    "text": ""
+  },
+  {
+    "tag": "div",
+    "text": "Swag Labs\nAccepted usernames are:\nstandard_user\nlocked_out_user\nproblem_user\nperformance_glitch_user\nerror_user\nvisual_user\nPassword for all users:\nsecret_sauce",
+    "id": "root"
+  },
+  {
+    "tag": "div",
+    "text": "Swag Labs\nAccepted usernames are:\nstandard_user\nlocked_out_user\nproblem_user\nperformance_glitch_user\nerror_user\nvisual_user\nPassword for all users:\nsecret_sauce",
+    "class": "login_container"
+  },
+  {
+    "tag": "div",
+    "text": "Swag Labs",
+    "class": "login_logo"
+  },
+  {
+    "tag": "div",
+    "text": "Accepted usernames are:\nstandard_user\nlocked_out_user\nproblem_user\nperformance_glitch_user\nerror_user\nvisual_user\nPassword for all users:\nsecret_sauce",
+    "class": "login_wrapper"
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "class": "login_wrapper-inner"
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "id": "login_button_container",
+    "class": "form_column"
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "class": "login-box"
+  },
+  {
+    "tag": "form",
+    "text": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "class": "form_group"
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "id": "user-name",
+    "class": "input_error form_input",
+    "name": "user-name",
+    "type": "text",
+    "placeholder": "Username"
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "class": "form_group"
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "id": "password",
+    "class": "input_error form_input",
+    "name": "password",
+    "type": "password",
+    "placeholder": "Password"
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "class": "error-message-container"
+  },
+  {
+    "tag": "input",
+    "text": "",
+    "id": "login-button",
+    "class": "submit-button btn_action",
+    "name": "login-button",
+    "type": "submit",
+    "value": "Login"
+  },
+  {
+    "tag": "div",
+    "text": "Accepted usernames are:\nstandard_user\nlocked_out_user\nproblem_user\nperformance_glitch_user\nerror_user\nvisual_user\nPassword for all users:\nsecret_sauce",
+    "class": "login_credentials_wrap"
+  },
+  {
+    "tag": "div",
+    "text": "Accepted usernames are:\nstandard_user\nlocked_out_user\nproblem_user\nperformance_glitch_user\nerror_user\nvisual_user\nPassword for all users:\nsecret_sauce",
+    "class": "login_credentials_wrap-inner"
+  },
+  {
+    "tag": "div",
+    "text": "Accepted usernames are:\nstandard_user\nlocked_out_user\nproblem_user\nperformance_glitch_user\nerror_user\nvisual_user",
+    "id": "login_credentials",
+    "class": "login_credentials"
+  },
+  {
+    "tag": "h4",
+    "text": "Accepted usernames are:"
+  },
+  {
+    "tag": "br",
+    "text": ""
+  },
+  {
+    "tag": "br",
+    "text": ""
+  },
+  {
+    "tag": "br",
+    "text": ""
+  },
+  {
+    "tag": "br",
+    "text": ""
+  },
+  {
+    "tag": "br",
+    "text": ""
+  },
+  {
+    "tag": "br",
+    "text": ""
+  },
+  {
+    "tag": "div",
+    "text": "Password for all users:\nsecret_sauce",
+    "class": "login_password"
+  },
+  {
+    "tag": "h4",
+    "text": "Password for all users:"
+  }
+]
