@@ -1,0 +1,189 @@
+{
+  "url": "https://www.saucedemo.com/",
+  "title": "Swag Labs",
+  "elements": [
+    {
+      "tag": "title",
+      "category": "structural",
+      "text": "",
+      "attrs": {}
+    },
+    {
+      "tag": "body",
+      "category": "structural",
+      "text": "Swag Labs\nAccepted usernames are:\nstandard_user\nlocked_out_user\nproblem_user\nperformance_glitch_user\nerror_user\nvisual_user\nPassword for all users:\nsecret_sauce",
+      "attrs": {}
+    },
+    {
+      "tag": "div",
+      "category": "structural",
+      "text": "Swag Labs\nAccepted usernames are:\nstandard_user\nlocked_out_user\nproblem_user\nperformance_glitch_user\nerror_user\nvisual_user\nPassword for all users:\nsecret_sauce",
+      "attrs": {
+        "id": "root"
+      }
+    },
+    {
+      "tag": "div",
+      "category": "structural",
+      "text": "Swag Labs\nAccepted usernames are:\nstandard_user\nlocked_out_user\nproblem_user\nperformance_glitch_user\nerror_user\nvisual_user\nPassword for all users:\nsecret_sauce",
+      "attrs": {
+        "class": "login_container"
+      }
+    },
+    {
+      "tag": "div",
+      "category": "structural",
+      "text": "Swag Labs",
+      "attrs": {
+        "class": "login_logo"
+      }
+    },
+    {
+      "tag": "div",
+      "category": "structural",
+      "text": "Accepted usernames are:\nstandard_user\nlocked_out_user\nproblem_user\nperformance_glitch_user\nerror_user\nvisual_user\nPassword for all users:\nsecret_sauce",
+      "attrs": {
+        "class": "login_wrapper"
+      }
+    },
+    {
+      "tag": "div",
+      "category": "structural",
+      "text": "",
+      "attrs": {
+        "class": "login_wrapper-inner"
+      }
+    },
+    {
+      "tag": "div",
+      "category": "structural",
+      "text": "",
+      "attrs": {
+        "id": "login_button_container",
+        "class": "form_column"
+      }
+    },
+    {
+      "tag": "div",
+      "category": "structural",
+      "text": "",
+      "attrs": {
+        "class": "login-box"
+      }
+    },
+    {
+      "tag": "form",
+      "category": "interactive",
+      "text": "",
+      "attrs": {
+        "action": "https://www.saucedemo.com/",
+        "method": "get"
+      }
+    },
+    {
+      "tag": "div",
+      "category": "structural",
+      "text": "",
+      "attrs": {
+        "class": "form_group"
+      }
+    },
+    {
+      "tag": "input",
+      "category": "interactive",
+      "text": "",
+      "attrs": {
+        "id": "user-name",
+        "class": "input_error form_input",
+        "name": "user-name",
+        "type": "text",
+        "placeholder": "Username"
+      }
+    },
+    {
+      "tag": "div",
+      "category": "structural",
+      "text": "",
+      "attrs": {
+        "class": "form_group"
+      }
+    },
+    {
+      "tag": "input",
+      "category": "interactive",
+      "text": "",
+      "attrs": {
+        "id": "password",
+        "class": "input_error form_input",
+        "name": "password",
+        "type": "password",
+        "placeholder": "Password"
+      }
+    },
+    {
+      "tag": "div",
+      "category": "structural",
+      "text": "",
+      "attrs": {
+        "class": "error-message-container"
+      }
+    },
+    {
+      "tag": "input",
+      "category": "interactive",
+      "text": "",
+      "attrs": {
+        "id": "login-button",
+        "class": "submit-button btn_action",
+        "name": "login-button",
+        "type": "submit",
+        "value": "Login"
+      }
+    },
+    {
+      "tag": "div",
+      "category": "structural",
+      "text": "Accepted usernames are:\nstandard_user\nlocked_out_user\nproblem_user\nperformance_glitch_user\nerror_user\nvisual_user\nPassword for all users:\nsecret_sauce",
+      "attrs": {
+        "class": "login_credentials_wrap"
+      }
+    },
+    {
+      "tag": "div",
+      "category": "structural",
+      "text": "Accepted usernames are:\nstandard_user\nlocked_out_user\nproblem_user\nperformance_glitch_user\nerror_user\nvisual_user\nPassword for all users:\nsecret_sauce",
+      "attrs": {
+        "class": "login_credentials_wrap-inner"
+      }
+    },
+    {
+      "tag": "div",
+      "category": "structural",
+      "text": "Accepted usernames are:\nstandard_user\nlocked_out_user\nproblem_user\nperformance_glitch_user\nerror_user\nvisual_user",
+      "attrs": {
+        "id": "login_credentials",
+        "class": "login_credentials"
+      }
+    },
+    {
+      "tag": "h4",
+      "category": "content",
+      "text": "Accepted usernames are:",
+      "attrs": {}
+    },
+    {
+      "tag": "div",
+      "category": "structural",
+      "text": "Password for all users:\nsecret_sauce",
+      "attrs": {
+        "class": "login_password"
+      }
+    },
+    {
+      "tag": "h4",
+      "category": "content",
+      "text": "Password for all users:",
+      "attrs": {}
+    }
+  ]
+}
