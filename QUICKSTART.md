@@ -15,9 +15,17 @@ source venv/Scripts/activate  # Windows Git Bash
 # Install dependencies (jika belum)
 pip install -r requirements.txt
 
+# PENTING: Setup file .env dengan API key
+cp .env.example .env
+# Edit .env dan tambahkan GEMINI_API_KEY Anda
+# nano .env  atau  notepad .env
+# Isi dengan: GEMINI_API_KEY=your_actual_api_key_here
+
 # Jalankan server
 python main.py
 ```
+
+> **⚠️ WAJIB:** Sebelum menjalankan server, pastikan file `.env` sudah dibuat dan berisi `GEMINI_API_KEY` yang valid. Dapatkan API key gratis di [Google AI Studio](https://ai.google.dev/).
 
 ✅ Server akan berjalan di: http://localhost:8000  
 📚 API Docs: http://localhost:8000/docs
